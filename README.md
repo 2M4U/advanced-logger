@@ -18,14 +18,14 @@ The Logger module provides a flexible and advanced logging functionality for you
 ## Installation
 
 ```bash
-npm install advanced-logger
+npm install adv-logs
 ```
 
 
 ## Usage
 
 ```javascript
-const Logger = require("advanced-logger");
+const Logger = require("adv-logs");
 
 const logger = new Logger({
   logLevel: "info",
